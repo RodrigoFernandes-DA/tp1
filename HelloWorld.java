@@ -2,9 +2,9 @@ class HelloWorld {
 
     public static void main ( String [] args ) {
 
-        System . out . println (" Salut Monde !" );
+        System . out . println (" Hello World !" );
 
-        System . out . println (" Au Revoir !" );
+        System . out . println (" Goodbye !" );
 
     }
 
